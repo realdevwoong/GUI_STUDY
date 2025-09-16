@@ -1,0 +1,10 @@
+streamlit 
+pandas 
+plotly
+altair
+streamlit-extras
+openpyxl
+gradio
+ffmpeg
+wordcloud
+konlpy
